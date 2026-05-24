@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sebastian-david-ariza-coll-1369772a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sebastian-david-ariza-coll-1369772a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sdarizacoll@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Colombia%20🇨🇴-FFC107?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-International%20Opportunities-2E75B6?style=for-the-badge" />
@@ -90,16 +90,17 @@ fun_fact: I also lecture on Compilers, OOP, and Data Structures 👨‍🏫
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sdariza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdariza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdariza&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sdariza&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sdariza">
+    <img src="https://github-contributor-stats.vercel.app/api?username=sdariza&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  </a>
 </p>
 
 ---
